@@ -1,0 +1,37 @@
+{
+  "name": "crypto-js",
+  "version": "3.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomatolabs/crypto-js"
+  },
+  "title": "crypto-js ported from http://code.google.com/p/crypto-js by Jeff.Mott.OR",
+  "description": "crypto-js is hosted to redistribute as bower project, it is ported from http://code.google.com/p/crypto-js by Jeff.Mott.OR",
+  "keywords": [
+    "bower",
+    "crypto",
+    "crypto-js",
+    "js",
+    "md5",
+    "sha",
+    "tomatolabs"
+  ],
+  "homepage": "https://github.io/tomatolabs/crypto-js",
+  "author": {
+    "name": "Henry Leu",
+    "url": "https://github.com/henryleu"
+  },
+  "maintainers": [
+    {
+      "name": "Henry Leu",
+      "url": "https://github.com/henryleu"
+    }
+  ],
+
+  "licenses": [
+    {
+      "type": "New BSD License",
+      "url": "http://opensource.org/licenses/BSD-3-Clause"
+    }
+  ]
+}
